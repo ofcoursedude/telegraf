@@ -7,9 +7,9 @@ import (
 )
 
 func (wl *WinEvtLog) SampleConfig() string {
-	return "not supported on this platform"
+	return "plugin is only supported on Windows"
 }
 
 func init() {
-	telegraf.Logger.Warn("not supported on this platform")
+	telegraf.Logger.Warn("plugin is only supported on Windows")
 }

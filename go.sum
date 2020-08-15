@@ -447,8 +447,8 @@ github.com/newrelic/newrelic-telemetry-sdk-go v0.2.0 h1:W8+lNIfAldCScGiikToSprbf
 github.com/newrelic/newrelic-telemetry-sdk-go v0.2.0/go.mod h1:G9MqE/cHGv3Hx3qpYhfuyFUsGx2DpVcGi1iJIqTg+JQ=
 github.com/nsqio/go-nsq v1.0.7 h1:O0pIZJYTf+x7cZBA0UMY8WxFG79lYTURmWzAAh48ljY=
 github.com/nsqio/go-nsq v1.0.7/go.mod h1:XP5zaUs3pqf+Q71EqUJs3HYfBIqfK6G83WQMdNN+Ito=
-github.com/ofcoursedude/gowinlog v1.0.4-0.20200815114834-8ecc49d6b976 h1:ttY934T370fNuiP8pe8Mqw75EP1JaudyXwmwELzYRxA=
-github.com/ofcoursedude/gowinlog v1.0.4-0.20200815114834-8ecc49d6b976/go.mod h1:1th/RWgZOgBMUjE4PHb9mRqjm9gIeeks//0I/rSm+D8=
+github.com/ofcoursedude/gowinlog v1.0.4 h1:JsAqiacog+GLohyzmcs8GWCGilX8zwOuFqDhDNG0hPA=
+github.com/ofcoursedude/gowinlog v1.0.4/go.mod h1:1th/RWgZOgBMUjE4PHb9mRqjm9gIeeks//0I/rSm+D8=
 github.com/onsi/ginkgo v0.0.0-20170829012221-11459a886d9c/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.7.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
