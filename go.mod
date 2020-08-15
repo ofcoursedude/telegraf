@@ -97,6 +97,7 @@ require (
 	github.com/nats-io/nats.go v1.9.1
 	github.com/newrelic/newrelic-telemetry-sdk-go v0.2.0
 	github.com/nsqio/go-nsq v1.0.7
+	github.com/ofcoursedude/gowinlog v1.0.4-0.20200815114834-8ecc49d6b976
 	github.com/openconfig/gnmi v0.0.0-20180912164834-33a1865c3029
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
